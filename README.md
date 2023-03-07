@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
 ## My name is Jan Cesareo. Welcome to my profile!
 
-# The purpose of this github profile is so that I can have a copy of all my programming projects in an easy-to-access place, and so that anyone else can see them and use them if they need to! 
+### The purpose of this github profile is so that I can have a copy of all my programming projects in an easy-to-access place, and so that anyone else can see them and use them if they need to! 
 
 I'm currently learning Ruby and Rust at very basic levels. I'm studying at The University of Texas Rio Grande Valley (UTRGV), pursuing my bachelor's degree in Computer Science. 
 
