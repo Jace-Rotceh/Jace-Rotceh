@@ -17,14 +17,13 @@ Feel free to peruse the information within here at your own leisure.
 
 
 #
-<br>
+
 
 ### Languages
 
-<img src="https://img.shields.io/badge/C++-%23282C34.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=docker&type=&language=cpp&sort=" alt="C++ logo" title="C++" height="28" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="JavaScript logo" title="JavaScript" height="28" />  
+<img src="https://img.shields.io/badge/C++-%23282C34.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/Hougesen?tab=repositories&q=docker&type=&language=cpp&sort=" alt="C++ logo" title="C++" height="28" />  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&style=for-the-badge&link=https://github.com/Hougesen?tab=repositories&q=&type=&language=javascript&sort=" alt="JavaScript logo" title="JavaScript" height="28" />
 
-<br> <br>
+<br>
 
 
 
